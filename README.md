@@ -23,4 +23,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Imagenes
 - ![image](https://github.com/BeltranJ128/UII-A9-DisenioUI/assets/143763139/7bcd7a1b-ea79-476a-9c55-db08e4cee071)
-- ![image](https://github.com/BeltranJ128/UII-A9-DisenioUI/assets/143763139/f371884e-7a24-4232-9550-d7239f3acd10)
+- ![image](https://github.com/BeltranJ128/UII-A9-DisenioUI/assets/143763139/e75fe6c7-0431-4a94-9d35-9f6611d2dbca)
+
